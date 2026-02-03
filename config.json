@@ -84,11 +84,11 @@
                     "playGame": "Play game",
                     "claimBonus": "Claim Bonus",
                     "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2515",
-                    "imageSizeModifier": 5,
+                    "imageSizeModifier": 0,
                     "imageYModifier": -5,
                     "imageXModifier": 0,
                     "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2516",
-                    "mobileImageSizeModifier": 2,
+                    "mobileImageSizeModifier": 0,
                     "mobileImageYModifier": 1,
                     "mobileImageXModifier": 0
                 },
