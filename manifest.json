@@ -1,0 +1,19 @@
+{
+  "name": "JustBet",
+  "short_name": "JustBet",
+  "theme_color": "",
+  "background_color": "#FAFAFA",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770123767-android-chrome-512x512.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,224 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FAFAFA",
+            "lang-select-color": "#222829",
+            "bg-light": "#441ea8",
+            "welcome-bonus-bg": "#e4e4e4",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#df39b1",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#df39b1",
+            "yellow-button": "#693CDD",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#e4e4e4",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#e4e4e4",
+            "faq-label": "#e4e4e4",
+            "bg-footer": "#aeaeae",
+            "copyright": "#aeaeae",
+            "starColor": "#df39b1",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2510"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2511",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "JustBet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2512",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "JustBet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "JustBet",
+                    "title": "JustBet — Sports Betting & Racing | Best Aussie Odds",
+                    "description": "Bet on sports and racing with JustBet Australia. Enjoy Same Race Multis, Best of 3 Totes, competitive odds, and exclusive daily promos. Join now!\n",
+                    "canonical": "justbet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2513",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "justbet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2514"
+                },
+                "hero": {
+                    "title": "Bet on Sports & Racing with Australia's Best Odds",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2515",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2516",
+                    "mobileImageSizeModifier": 2,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted Australian bookmaker? We offer licensed betting with competitive odds, same race multis, and exclusive daily promotions. Here's what makes us the best choice for Aussie punters:\n",
+                    "items": [
+                        "Licensed Australian bookmaker operating since 2023 with Melbourne headquarters",
+                        "Best of 3 Totes on every Australian horse race with competitive fixed odds",
+                        "Same Race Multi and Same Game Multi for AFL, NRL, Cricket, and major sports",
+                        "Mobile app available on iOS and Android with dynamic design and live betting",
+                        "10+ sports including AFL, NRL, cricket, tennis, soccer, and international racing",
+                        "24\/7 live chat support and fast EFT withdrawals for all Australian players"
+                    ],
+                    "advantagesAfterText": "Join thousands of Aussie punters enjoying top-tier racing coverage and sports betting. Our support team is ready to assist you with exclusive promotions every day.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "JustBet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2517",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "JustBet App",
+                    "mobileGooglePlayImageTitle": "JustBet App",
+                    "mobileIosImageTitle": "JustBet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About JustBet Australia",
+                        "description1": "JustBet is an Australian-owned bookmaker proudly operating from Melbourne. We launched to provide Aussie punters with competitive odds, comprehensive racing coverage, and innovative betting features. Our platform combines cutting-edge technology with local expertise.\n",
+                        "items": [
+                            "Launched same race multi feature for bigger odds and better value",
+                            "Introduced Best of 3 Totes on all Australian horse racing events",
+                            "Expanded sports coverage to 10+ disciplines with same game multis",
+                            "Released mobile apps for iOS and Android with live betting features"
+                        ],
+                        "description2": "We operate under strict Australian gambling regulations with full licensing compliance. Our platform uses advanced security measures to protect your account and personal data. All odds and payouts are verified for fairness and transparency.\nWe continue expanding our racing and sports offerings with new markets daily. Our commitment to responsible gambling ensures a safe betting environment. Experience why we're Australia's fastest-growing bookmaker for racing and sports.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2518",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Racing & Sports Betting Guide",
+                        "description": "<h2>Your Complete Guide to Betting with JustBet Australia<\/h2>\n\n<p>At JustBet, we pride ourselves on delivering the ultimate betting experience for Australian punters. Our platform combines comprehensive racing coverage with diverse sports markets, innovative multi betting options, and competitive odds across all events. Whether you're backing your favourite horse at Flemington or placing a same game multi on the AFL grand final, we provide the tools and markets you need to maximise your betting potential.<\/p>\n\n<h3>Australian Horse Racing Coverage<\/h3>\n\n<p>We offer complete coverage of all Australian thoroughbred, harness, and greyhound racing. Our racing product features the exclusive Best of 3 Totes on every Australian race, ensuring you always get the best possible dividend. We release fixed odds prices days in advance, allowing you to lock in value before markets move. Our same race multi feature lets you combine multiple selections in a single race for enhanced odds and bigger potential returns.<\/p>\n\n<p>Our racing coverage includes all major Australian meetings from premier tracks like Flemington, Randwick, Caulfield, Rosehill, Eagle Farm, and Morphettville. We also provide international racing from the UK, USA, Ireland, South Africa, Japan, France, Canada, Germany, and Sweden. With early markets, live odds updates, and comprehensive form guides, you have everything needed to make informed betting decisions on racing events worldwide.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Best of 3 Totes:<\/strong> Automatically receive the best dividend from three tote pools on every Australian race, guaranteeing maximum value on winning bets.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Same Race Multi:<\/strong> Combine multiple horses in the same race to finish in the top four positions with fixed odds calculated before the jump.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Early fixed odds:<\/strong> Access competitive prices released days before race day, allowing you to secure value before market movements affect prices.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>International racing:<\/strong> Bet on premium meetings from major racing nations including Royal Ascot, Kentucky Derby, Dubai World Cup, and Japan Cup events.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>All racing codes:<\/strong> Comprehensive coverage of thoroughbred racing, harness racing, and greyhound racing from tracks across Australia and internationally.\n  <\/li>\n<\/ul>\n\n<h3>Sports Betting Markets<\/h3>\n\n<p>Our sports betting platform covers more than ten major sports with extensive market depth on popular Australian and international competitions. We specialise in AFL and NRL coverage with same game multis available on every match, featuring markets for disposals, tries, goals, margins, quarters, halves, and first-to scoring options. Our competitive odds and comprehensive market selection ensure you find value across all major sporting events.<\/p>\n\n<p>We offer betting on AFL, NRL, cricket, tennis, soccer, rugby union, basketball, baseball, golf, gridiron, ice hockey, netball, boxing, and many more sports. Our soccer coverage includes over thirty leagues from around the world, while basketball features fifteen-plus international competitions. Each sport provides win\/loss\/draw markets, handicaps, totals, player props, and specialised betting options tailored to the specific game format.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #d73296;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Sport<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Features<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #2d0f69;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>AFL<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Same Game Multi<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a0540;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>NRL<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Same Game Multi<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2d0f69;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Cricket<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Live Betting<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a0540;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Tennis<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Live Betting<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2d0f69;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Soccer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">30+ Leagues<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a0540;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Basketball<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">15+ Leagues<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2d0f69;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Racing<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Best of 3 Totes<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Same Game Multi and Same Race Multi<\/h3>\n\n<p>Our innovative multi betting features allow you to combine selections from the same event for enhanced odds and bigger potential payouts. Same game multis are available on AFL and NRL matches, letting you combine markets like match result, player disposals, goal scorers, margins, and quarter outcomes into a single bet with combined odds. This feature transforms standard betting into exciting multi-leg opportunities with significantly increased returns when all selections win.<\/p>\n\n<p>Same race multis work similarly for horse racing, allowing you to select multiple horses in the same race to finish anywhere in the top four positions. We calculate fixed odds for your combination before the race starts, eliminating uncertainty about potential dividends. This unique feature is exclusive to Australian racing and provides exceptional value for punters who can identify multiple strong chances in competitive fields.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>AFL same game multi:<\/strong> Combine win\/loss, handicap, disposals, goals, margins, quarter markets, and first-to options in a single bet.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>NRL same game multi:<\/strong> Merge match result, line, tries, points, half markets, and player performance props for bigger odds.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Same race multi:<\/strong> Pick multiple horses to finish top four in the same race with fixed odds determined before the jump.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Dynamic odds calculation:<\/strong> Our system automatically calculates combined odds as you add selections, showing potential returns instantly.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live same game multis:<\/strong> Available on selected AFL and NRL matches, allowing you to build multis while the game is in progress.\n  <\/li>\n<\/ul>\n\n<h3>Mobile Betting Experience<\/h3>\n\n<p>Our mobile app delivers the complete JustBet experience on iOS and Android devices. We built our app with dynamic design principles, ensuring fast loading times, intuitive navigation, and seamless bet placement on any screen size. Access all racing and sports markets, view live odds updates, manage your account, claim promotions, and contact support directly through the app interface.<\/p>\n\n<p>The JustBet mobile app features exclusive daily racing promotions that appear when you log in, providing bonus offers and enhanced odds opportunities not available on the desktop site. Our app supports live betting on racing and sports, with real-time odds updates and quick bet slip functionality. Download from the App Store or Google Play to experience premium mobile betting optimised for Australian racing and sports punters.<\/p>\n\n<h3>Exclusive Daily Promotions<\/h3>\n\n<p>We reward our members with racing promotions available seven days per week. Our daily offers include enhanced odds on selected races, bonus bets for multi-leg wagers, cashback specials on losing favourites, and money-back guarantees on specific race types. Every promotion is designed to add value to your betting experience and increase your potential returns across racing and sports markets.<\/p>\n\n<p>Our promotional calendar features regular bonuses for loyal punters, including weekly rebates on net losses, refer-a-friend bonuses, and seasonal campaigns during major racing carnivals and sports finals. We communicate all active promotions through the mobile app, email notifications, and our website banner, ensuring you never miss an opportunity to claim bonus value on your betting activity.<\/p>\n\n<h3>Payment Methods and Account Management<\/h3>\n\n<p>We accept deposits via credit card, debit card, POLi, and EFT bank transfer, providing convenient options for all Australian punters. Deposits are processed instantly, allowing you to start betting immediately after funding your account. Withdrawals are processed through EFT bank transfer with fast turnaround times, ensuring you receive your winnings promptly and securely into your nominated Australian bank account.<\/p>\n\n<p>Our account management system gives you complete control over your betting activity. Set deposit limits, view transaction history, track active bets, manage notifications, and update personal details through your account dashboard. We implement responsible gambling measures including self-exclusion options, reality checks, and access to support resources for anyone concerned about their betting behaviour.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Responsible Gambling & Support",
+                        "description": "<h2>Betting Safely with JustBet Australia<\/h2>\n\n<p>At JustBet, we take responsible gambling seriously and provide comprehensive tools to help you maintain control over your betting activity. We operate under strict Australian gambling regulations and hold all necessary licenses to offer wagering services to Australian residents. Our commitment to player safety extends beyond regulatory compliance, incorporating industry-leading responsible gambling features and dedicated support resources for anyone experiencing difficulties with their betting behaviour.<\/p>\n\n<h3>Responsible Gambling Tools<\/h3>\n\n<p>We offer multiple tools designed to help you gamble responsibly and stay within your personal limits. Our deposit limit feature allows you to set daily, weekly, or monthly maximums on how much you can deposit into your account. Once set, these limits cannot be increased for a minimum cooling-off period, preventing impulsive decisions during betting sessions. You can also set loss limits, wagering limits, and session time reminders to maintain awareness of your gambling activity.<\/p>\n\n<p>Our reality check feature sends periodic notifications during extended betting sessions, reminding you how long you have been active and prompting you to consider taking a break. This tool helps maintain perspective during lengthy gambling sessions and encourages regular breaks from betting activity. We also provide detailed activity statements showing all transactions, bets placed, wins, losses, and net position over any selected timeframe.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Deposit limits:<\/strong> Set daily, weekly, or monthly deposit caps that cannot be exceeded, with cooling-off periods before any limit increases take effect.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Loss limits:<\/strong> Define maximum losses over specific periods to prevent betting beyond your comfortable threshold and protect your bankroll.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Session reminders:<\/strong> Receive notifications at intervals you choose, prompting awareness of time spent gambling and encouraging regular breaks.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Activity statements:<\/strong> Access comprehensive reports showing all betting activity, deposits, withdrawals, and net results for complete transparency.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Self-exclusion options:<\/strong> Temporarily or permanently exclude yourself from betting, with options ranging from twenty-four hours to permanent closure.\n  <\/li>\n<\/ul>\n\n<h3>Customer Support Services<\/h3>\n\n<p>Our customer support team operates via live chat and email to assist with all account queries, technical issues, and betting questions. Live chat provides instant responses during business hours, connecting you directly with knowledgeable support staff who can resolve most issues immediately. For complex queries requiring detailed investigation, our email support team provides comprehensive responses within twenty-four hours.<\/p>\n\n<p>We maintain extensive help documentation covering account registration, deposit methods, withdrawal processes, bet types, same race multis, same game multis, odds formats, and promotional terms. Our FAQ section addresses common questions about racing markets, sports betting rules, payout calculations, and account verification requirements. This self-service resource library helps you find answers quickly without needing to contact support for routine inquiries.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live chat support:<\/strong> Instant assistance during business hours for urgent queries about betting, deposits, withdrawals, and account management.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Email support:<\/strong> Detailed responses to complex questions within twenty-four hours, with attachments and comprehensive explanations when needed.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Help centre:<\/strong> Comprehensive documentation covering all aspects of betting, account management, promotions, and responsible gambling tools.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>FAQ section:<\/strong> Quick answers to frequently asked questions about racing, sports, betting rules, odds, payments, and account verification.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Video tutorials:<\/strong> Step-by-step guides showing how to place same race multis, same game multis, and access advanced betting features.\n  <\/li>\n<\/ul>\n\n<h3>Understanding Betting Odds<\/h3>\n\n<p>We display odds in decimal format, which is standard for Australian bookmakers and represents the total return including your original stake. For example, odds of three point five zero means a ten-dollar bet returns thirty-five dollars if successful, including your original stake. Understanding odds helps you calculate potential returns, compare value across different markets, and make informed betting decisions based on probability and expected value.<\/p>\n\n<p>Our platform allows you to compare our fixed odds with tote dividends in real-time, helping you decide whether to take the fixed price or wait for the tote dividend. With our Best of 3 Totes feature on Australian racing, you automatically receive the highest dividend from three tote pools, eliminating the need to manually compare. This ensures maximum value on every winning bet without requiring constant monitoring of fluctuating tote pools.<\/p>\n\n<h3>Account Verification and Security<\/h3>\n\n<p>We require identity verification for all accounts to comply with Australian anti-money laundering regulations and prevent underage gambling. Our verification process requires submission of a government-issued photo ID and proof of address document. Verification typically completes within twenty-four hours, and you can deposit and bet while verification is processing, though withdrawals require completed verification before processing.<\/p>\n\n<p>We implement advanced security measures to protect your account and personal information. Our platform uses SSL encryption for all data transmission, secure servers for information storage, and two-factor authentication options for enhanced account protection. We never share your personal details with third parties except as required by law or for payment processing purposes, maintaining strict privacy standards for all customer data.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Identity verification:<\/strong> Submit government-issued photo ID and proof of address to verify your account and enable withdrawal processing.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>SSL encryption:<\/strong> All data transmitted between your device and our servers is encrypted using industry-standard security protocols.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Two-factor authentication:<\/strong> Optional extra security layer requiring a verification code from your mobile device when logging in.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Secure payment processing:<\/strong> All financial transactions are processed through certified payment gateways with bank-level security standards.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Privacy protection:<\/strong> Your personal information is stored securely and never shared with third parties without your consent or legal requirement.\n  <\/li>\n<\/ul>\n\n<h3>Betting Strategies and Tips<\/h3>\n\n<p>Successful betting requires discipline, research, and bankroll management. We recommend setting a betting budget that represents only discretionary funds you can afford to lose, never betting with money needed for essential expenses. Establish a unit size representing a small percentage of your total bankroll, typically between one and five percent, and stake consistent unit amounts rather than chasing losses with larger bets.<\/p>\n\n<p>Research is fundamental to informed betting decisions. For racing, study form guides, track conditions, jockey and trainer statistics, barrier positions, and recent performance patterns. For sports betting, analyse team form, head-to-head records, injury reports, weather conditions, and statistical trends. Our platform provides access to comprehensive form information and statistics to support your research and help identify value betting opportunities.<\/p>\n\n<h3>Major Racing Carnivals and Sports Events<\/h3>\n\n<p>We provide comprehensive coverage of all major Australian racing carnivals including the Melbourne Cup Carnival, Sydney Autumn Carnival, Brisbane Winter Carnival, Adelaide Autumn Carnival, and Perth Summer Carnival. Our markets for Group One races feature enhanced odds, special promotions, and same race multi options for every race on the carnival program. We release early fixed odds for feature races, allowing you to lock in value before market fluctuations.<\/p>\n\n<p>Our sports betting covers all major Australian and international events including AFL finals, NRL finals, Australian Open tennis, cricket test matches, One Day Internationals, Big Bash League, A-League soccer, NBL basketball, State of Origin rugby league, and international rugby union. We offer extensive markets for each event with same game multis, live betting, and exclusive promotions designed to enhance your betting experience during major sporting occasions.<\/p>\n\n<h3>Getting Started with JustBet<\/h3>\n\n<p>Creating an account takes just minutes and requires basic personal information including name, date of birth, address, and contact details. After registration, make your first deposit using your preferred payment method and start betting immediately on racing and sports markets. New members can claim exclusive welcome promotions and access our full range of betting features from the moment their account is created.<\/p>\n\n<p>Download our mobile app from the App Store or Google Play to access exclusive daily promotions and enjoy seamless betting on the go. Our app provides the complete JustBet experience optimised for mobile devices, with fast bet placement, live odds updates, account management, and customer support all accessible through your smartphone or tablet. Join JustBet today and discover why we are Australia's premier destination for racing and sports betting.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I create an account with JustBet?",
+                            "answer": "Creating an account is simple and takes just a few minutes. Visit our website or download the mobile app, click the registration button, and provide basic details including your name, date of birth, address, email, and phone number. You must be eighteen years or older and located in Australia. After registration, deposit funds and start betting immediately on racing and sports.\n"
+                        },
+                        {
+                            "title": "What is Best of 3 Totes and how does it work?",
+                            "answer": "Best of 3 Totes is our exclusive feature that automatically gives you the highest dividend from three different tote pools on every Australian race. When you place a tote bet, we compare the dividends from three major tote operators and pay you the best one. This ensures maximum value on winning bets without needing to manually check multiple tote pools.\n"
+                        },
+                        {
+                            "title": "How do Same Race Multis work?",
+                            "answer": "Same Race Multis allow you to combine multiple horses in the same race to finish anywhere in the top four positions. Select your horses, and we calculate fixed odds for your combination before the race starts. All selections must finish in the top four for your bet to win. This feature provides bigger odds than backing horses individually and is available on Australian racing only.\n"
+                        },
+                        {
+                            "title": "What sports can I bet on with JustBet?",
+                            "answer": "We offer betting on more than ten sports including AFL, NRL, cricket, tennis, soccer, rugby union, basketball, baseball, golf, gridiron, ice hockey, netball, and boxing. Our AFL and NRL coverage includes same game multis with extensive markets for disposals, tries, goals, margins, and quarters. Soccer features thirty-plus leagues while basketball offers fifteen-plus international competitions.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to process?",
+                            "answer": "Withdrawals are processed via EFT bank transfer and typically reach your Australian bank account within one to three business days. Your account must be fully verified with approved ID and proof of address before withdrawals can be processed. We aim to approve withdrawal requests within twenty-four hours, after which your bank processes the transfer to your nominated account.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for deposits?",
+                            "answer": "We accept credit cards, debit cards, POLi, and EFT bank transfer for deposits. All deposit methods are processed instantly, allowing you to start betting immediately after funding your account. Minimum deposit amounts vary by payment method, with most options requiring a minimum of ten dollars. There are no fees charged by JustBet for deposits using any accepted payment method.\n"
+                        },
+                        {
+                            "title": "Are there any promotions for existing customers?",
+                            "answer": "Yes, we offer exclusive daily racing promotions that appear when you log into the mobile app. These include enhanced odds on selected races, bonus bets for multi-leg wagers, cashback specials, and money-back guarantees. We also run seasonal campaigns during major racing carnivals and sports finals. Check your account dashboard and email regularly for the latest promotional offers.\n"
+                        },
+                        {
+                            "title": "Can I use JustBet on my mobile device?",
+                            "answer": "Absolutely! We offer dedicated mobile apps for iOS and Android devices available through the App Store and Google Play. Our app provides the complete JustBet experience with all racing and sports markets, live betting, account management, and exclusive mobile-only promotions. The app features dynamic design optimised for smartphones and tablets with fast loading and intuitive navigation.\n"
+                        },
+                        {
+                            "title": "How do I contact customer support?",
+                            "answer": "Contact us via live chat for instant assistance during business hours or send an email for detailed queries that require investigation. Live chat is available directly through the website and mobile app, connecting you with our support team immediately. For email support, expect responses within twenty-four hours. We also provide comprehensive help documentation and FAQs for self-service assistance.\n"
+                        },
+                        {
+                            "title": "What responsible gambling tools are available?",
+                            "answer": "We offer multiple responsible gambling tools including deposit limits, loss limits, wagering limits, session time reminders, reality checks, activity statements, and self-exclusion options. You can set these limits through your account dashboard to maintain control over your betting activity. We also provide links to support organisations like Gambling Help Online for anyone experiencing difficulties with their gambling.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
